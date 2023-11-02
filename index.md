@@ -5,4 +5,5 @@ Hi! I am currently a student at University of California, Davis, and will gradua
     I have both technical software internship and research experience, and am interested in the intersection of scientific computing/machine learning and hardware.
 
 [Experience](/work.md)
+
 [Projects](/projects.md)
