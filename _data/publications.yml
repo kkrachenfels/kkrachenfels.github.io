@@ -4,6 +4,6 @@ main:
     authors: Wei P, Fu K, Villacres J, Ke T, <strong>Krachenfels K</strong>, Stofer CR, Bayati N, Gao Q, Zhang B, Vanacker E, et al.
     conference: Sensors 24, no. 8
     pdf: https://doi.org/10.3390/s24082494
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/sensors_pub.png
     notes: Capstone project
     description: Designed sensor fusion algorithm for 360 point cloud and front-facing thermal camera data to produce 3D thermal maps; primarily worked with Open3D, ROS, and Point Cloud Library (PCL) for data visualization and manipulation. Wrote Python code for depth projection, thermal data reprojection, and decoupled fusion pipeline scripts for ease-of-use
