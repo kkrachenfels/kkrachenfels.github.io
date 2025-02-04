@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am a Master's student in the Computer Science department at UC Santa Barbara. 
 
-I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research that allows machines to saliently and semantically process their environments via multimodal inputs and human-based data. **Broadly, I am interested in machine learning for medicine, computer vision (and, by extension, psychology/neuroscience), and hardware adjacent applications like robotics.**
+I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research involving human-based data as well as research that allows machines to saliently and semantically process their environments, such as via multimodal input. **Broadly, I am interested in machine learning for medicine, computer vision (and, by extension, psychology/neuroscience), and hardware adjacent applications like robotics.**
 
 ## Past Experience
 
