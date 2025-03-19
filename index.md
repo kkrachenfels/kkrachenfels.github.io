@@ -22,3 +22,9 @@ I received my Bachelor's degree in Computer Science and Engineering from UC Davi
     - Informally presented results comparing results of training based on proportions of unsupervised and supervised training data used. 
 
 {% include_relative _includes/publications.md %}
+
+## Other Work
+
+I play and compose music sometimes! You can check out my <a href="https://www.youtube.com/@birdbard" target="_blank">music youtube channel</a>.
+
+- **March 2025** I did the music & audio for our video game, Sashimi Slayer, which is exhibiting at alt.ctrl.GDC this March 19-21! Learn more about the game <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">here</a>! And vote on our game <a href="https://gdconf.com/news/play-and-vote-these-showstopping-altctrlgdc-games-gdc-2025" target="_blank">here</a> :)
