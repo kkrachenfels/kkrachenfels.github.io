@@ -31,6 +31,6 @@ I play and compose music sometimes! You can check out my <a href="https://www.yo
 
 I did the music & audio for an alternative controller video game, Sashimi Slayer; learn more about the game and our team <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">here</a>!
 
-- **[August/September 2025]**: Sashimi Slayer was accepted into PAX West (Seattle, WA) as part of the PAX Rising showcase, and we will be exhibiting it August 29th through September 1st. 
+- **[August/September 2025]**: Sashimi Slayer was accepted into PAX West (Seattle, WA) as part of the <a href="https://west.paxsite.com/en-us/features/pax-rising-showcase.html" target="_blank">PAX Rising showcase</a>, and we will be exhibiting it August 29th through September 1st 
 - **[July 2025]**: Sashimi Slayer was exhibited at Secret Sauce as part of Open Sauce in San Mateo
-- **[March 2025]**: Sashimi Slayer was exhibited at alt.ctrl.GDC as part of the Game Developer's Confernece (GDC) in San Francisco
+- **[March 2025]**: Sashimi Slayer was exhibited at alt.ctrl.GDC as part of the Game Developer's Conference (GDC) in San Francisco
