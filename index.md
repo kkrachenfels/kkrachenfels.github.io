@@ -6,10 +6,12 @@ layout: homepage
 
 Hi! I am a Master's student in the Computer Science department at UC Santa Barbara. 
 
-I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research involving human-based data as well as research that allows machines to saliently and semantically process their environments, such as via multimodal input. **Broadly, I am interested in machine learning for medicine, language and computer vision (and, by extension, psychology/neuroscience), and hardware-adjacent applications like robotics.**
+I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research that allows machines to saliently and semantically process their environments via multimodal input. I also love engineering that gets more hands-on; **broadly, I am interested in using machine learning for medicine, language and computer vision, and cool hardware-adjacent software applications such as avionics software.**
 
 ## Past Experience
 
+- **[Summer 2025]** Avionics Software Intern at Blue Origin
+    - Worked with Python, C++, Linux, and CI/CD pipelines to create tooling for measuring technical performance and resource utilization of applications, in addition to writing other supportive tooling and contributing to Blue Ring flight software.
 - **[Sept 2021 - June 2024]** Research assistant in the Janata Lab at UC Davis 
     - Used PyTorch to build and train a CNN on 200 music-evoked memory passages for prediction of lifetime periods; used other natural language libraries to analyze/visualize sentiments, similarities, and various patterns across memories. 
     - Used Django and an AWS-hosted SQL database to set up models and pipelines for running and storing analyses. 
@@ -27,4 +29,8 @@ I received my Bachelor's degree in Computer Science and Engineering from UC Davi
 
 I play and compose music sometimes! You can check out my <a href="https://www.youtube.com/@birdbard" target="_blank">music youtube channel</a>.
 
-- **[March 2025]**: I did the music & audio for an alternative controller video game, Sashimi Slayer, which is exhibiting at alt.ctrl.GDC in San Francisco this March 19-21! Learn more about the game and our team <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">here</a>! And vote on our game <a href="https://gdconf.com/news/play-and-vote-these-showstopping-altctrlgdc-games-gdc-2025" target="_blank">here</a> :)
+I did the music & audio for an alternative controller video game, Sashimi Slayer; learn more about the game and our team <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">here</a>!
+
+- **[August/September 2025]**: Sashimi Slayer was accepted into PAX West (Seattle, WA) as part of the PAX Rising showcase, and we will be exhibiting it August 29th through September 1st. 
+- **[July 2025]**: Sashimi Slayer was exhibited at Secret Sauce as part of Open Sauce in San Mateo
+- **[March 2025]**: Sashimi Slayer was exhibited at alt.ctrl.GDC as part of the Game Developer's Confernece (GDC) in San Francisco
