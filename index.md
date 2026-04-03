@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am a Master's student in the Computer Science department at UC Santa Barbara. 
 
-I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and I also love engineering that gets more hands-on; **broadly, I am interested in using AI for medicine, language/ computer vision and low-level hardware (e.g. CUDA), and in software applications such as in automotive and avionics.**
+I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and I also love engineering that gets more hands-on; **broadly, I am interested in using AI for medicine, language/computer vision and low-level hardware (e.g. CUDA), and in software applications such as in automotive and avionics.**
 
 ## Past Experience
 - **[Master's Project - 2026]** Agentic AI Search and Feedback Strategies for CUDA Kernel Generation
@@ -32,7 +32,7 @@ I received my Bachelor's degree in Computer Science and Engineering from UC Davi
 
 I play and compose music sometimes! You can check out my <a href="https://www.youtube.com/@birdbard" target="_blank">music youtube channel</a>.
 
-I did the music & audio for an alternative controller video game, Sashimi Slayer; learn more about the game and our team <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">here</a>!
+I did the music & audio for an alternative controller video game, Sashimi Slayer; you can download the game from <a href="https://store.steampowered.com/app/3671910/Sashimi_Slayer/" target="_blank">steam</a> as well as learn more about the game and <a href="https://linktr.ee/shrimpfriedricegames" target="_blank">our team</a>!
 
 - **[August/September 2025]**: Sashimi Slayer was accepted into PAX West (Seattle, WA) as part of the <a href="https://west.paxsite.com/en-us/features/pax-rising-showcase.html" target="_blank">PAX Rising showcase</a>, and we will be exhibiting it August 29th through September 1st 
 - **[July 2025]**: Sashimi Slayer was exhibited at Secret Sauce as part of Open Sauce in San Mateo
