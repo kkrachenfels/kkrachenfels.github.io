@@ -6,9 +6,12 @@ layout: homepage
 
 Hi! I am a Master's student in the Computer Science department at UC Santa Barbara. 
 
-I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and am interested in research that allows machines to saliently and semantically process their environments via multimodal input. I also love engineering that gets more hands-on; **broadly, I am interested in using machine learning for medicine, language and computer vision, and cool hardware-adjacent software applications such as avionics software.**
+I received my Bachelor's degree in Computer Science and Engineering from UC Davis. I have both technical software internship and research experience, and I also love engineering that gets more hands-on; **broadly, I am interested in using AI for medicine, language/ computer vision and low-level hardware (e.g. CUDA), and in software applications such as in automotive and avionics.**
 
 ## Past Experience
+- **[Master's Project - 2026]** Agentic AI Search and Feedback Strategies for CUDA Kernel Generation
+    - Compared effectiveness of different agentic AI search heuristics (e.g. beam search, MCTS) when optimizing CUDA kernels and studied robustness of various feedback heuristics, such as to non-tested shapes or non-target hardware
+    - Analyzed realistic impact and speedup of optimized kernels when placed in end-to-end tests in ML/LLM models
 
 - **[Summer 2025]** Avionics Software Intern at Blue Origin
     - Worked with Python, C++, Linux, and CI/CD pipelines to create tooling for measuring technical performance and resource utilization of applications, in addition to writing other supportive tooling and contributing to Blue Ring flight software.
